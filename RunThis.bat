@@ -1,0 +1,1 @@
+mysqldump -u root -p gurukripa23_24>C:\Users\Aparw\OneDrive\Desktop\bin\guru.sql
